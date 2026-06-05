@@ -249,7 +249,7 @@ This value can be:
 * Static amount
 * Percentage-based
 
-The user should be able to choose either mode.
+The user should be able to choose either mode. and also set the value.
 
 ---
 
