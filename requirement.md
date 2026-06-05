@@ -1,4 +1,5 @@
 
+
 ---
 
 # Main Features
@@ -157,6 +158,7 @@ This value may be extracted from SMS messages.
 
 Amount paid in Iranian Rial.
 
+
 This value should be extracted automatically from SMS messages.
 
 ---
@@ -175,17 +177,25 @@ Expense category.
 
 Examples:
 
-* Transportation
-* Health
-* Daily Expenses
-* Entertainment
-* Food
+* روزمره
+* تفریح
+* حمل و نقل
+* سلامت
+* ماشین
+* خرید لباس نو
+* مسافرت
+* سرمایه گزاری
+* پس‌انداز
+* قسط
+* دیگر موارد
+
+
 
 The application should:
 
 * Read all existing categories.
 * Show them as selectable options.
-* Allow category management.
+* Allow category management.(add-remove-rename-reorder, etc)
 * Suggest categories automatically based on previous usage.
 
 ---
